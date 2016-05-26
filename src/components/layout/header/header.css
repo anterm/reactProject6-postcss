@@ -1,0 +1,13 @@
+.block {
+  padding: 10px 20px;
+  background-color: #efefef;
+}
+
+.link {
+  display: inline-block;
+  padding: 5px 10px;
+  background: #069;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
